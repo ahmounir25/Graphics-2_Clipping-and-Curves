@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1652057518 source:c:\users\legion\desktop\newgraph\main.cpp
+	<tchar.h>
+	<windows.h>
+	<cmath>
+
+1652184239 source:c:\users\legion\onedrive\desktop\assignments\20190073_20190301_s3,4\main.cpp
+	<tchar.h>
+	<windows.h>
+	<cmath>
+
